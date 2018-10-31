@@ -20,7 +20,11 @@
             <div class="content-body">
                 <div class="success-text">Success!</div>
                 <div class="description line-1"> Azure DevOps Project has been successfully setup</div>
+<<<<<<< HEAD
+                <div class="description line-2"> This is Assginment 2 modification</div>
+=======
                 <div class="description line-2"> Modifiedpasrt of feature 2</div>
+>>>>>>> feature2
                 <div class="next-steps-container">
                     <div class="next-steps-header">Next up</div>
                     <div class="next-steps-body">
